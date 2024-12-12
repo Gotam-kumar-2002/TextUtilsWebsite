@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.black{
+  background-color:#61dafb;
+  font-size: large;
+  text-align: center;
+  color: crimson;
+}
+h1{
+  font-size: 30px;
+  background-color: fuchsia;
+  color: white;
+  text-align: center;
+
+}
